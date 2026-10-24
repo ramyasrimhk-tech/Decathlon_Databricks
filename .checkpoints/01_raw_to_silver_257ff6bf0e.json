@@ -1,0 +1,54 @@
+{
+  "project": "Decathlon",
+  "source_prefix": "2025/01/01/",
+  "processed_prefix": "silver/2025/01/01/",
+  "stages": {
+    "extract_transform": {
+      "status": "SUCCESS",
+      "detail": "23 candidate tables",
+      "at": "2026-10-10T17:13:00.667716+00:00"
+    },
+    "validation": {
+      "status": "SUCCESS",
+      "detail": "errors=0, warnings=0",
+      "at": "2026-10-10T17:13:00.726533+00:00"
+    },
+    "upload": {
+      "status": "SUCCESS",
+      "detail": "uploaded=23, skipped=0",
+      "at": "2026-10-10T17:13:31.257532+00:00"
+    },
+    "verify": {
+      "status": "SUCCESS",
+      "detail": "",
+      "at": "2026-10-10T17:13:32.305302+00:00"
+    }
+  },
+  "uploads": {
+    "data_quality_issues.csv": "08a0b17f11b63f741c920213bce083f8dc52599751ef7d8510a232eda7777f89",
+    "ad_events.csv": "c674898443d2d77f5403c9bbd1f960e9231a6b3530bce69a95782725cedade80",
+    "advertisements.csv": "45e63f994cac573c9b77903ca201024d839ceb5e1f95626b2bd45897f6cfeaa4",
+    "brands.csv": "f2bcd4ce3c6891fda356d5d077b19ac0f1c88f877b01fb6a029ecfdaa2f42191",
+    "campaigns.csv": "92eaf0b2712910a14b6a65e8b2bc51fedfe256456464996eecdf525f28e82fb6",
+    "categories.csv": "6a0c2d77dc828fd168f73da5d68348d9b7064d1767fcc6582e23a6e848d1dc78",
+    "customer_addresses.csv": "a9ea4b48cbb1e0360b50b0a03780f8f80e68e3a36af9cdb074c0b4614057b177",
+    "customers.csv": "7e2de641738a731ce3e23b97deeabce1bb1243ac4ffc68dcaf60a3bb8ab541e5",
+    "employees.csv": "90f8d0ded2b54cdddfdf464c9075e51032c97182a454123c1af4ba24f23ec871",
+    "inventory_snapshots.csv": "88e7c4835e954130babf79a66fb233426c541622be9dbe976df2ae530a357bbd",
+    "loyalty_accounts.csv": "d1f4e9056866a23aab2d6d0daa78124f3967f21cec251d232864efa576aa51e8",
+    "payments.csv": "ea52adfcc8ef3565dc3b578f3ab738739b8bab45892cd921cd375dea45e9dc85",
+    "products.csv": "3d9255a3ddc16e3488aa7af934ae6e9059223544d6095b224ab6828d23fbfaa2",
+    "purchase_order_items.csv": "6c66ccc8c8acaee72846fe9aff523e435a2437774854b7b03058d38419ecbae4",
+    "purchase_orders.csv": "55070724bb514dafab06e70accc693d3d1628febb1f30666cb399529326fd3c6",
+    "returns.csv": "6d9fd383ef893d1a5912eaac203a43cd7cd5a36aba6c151cd73975df6c02311b",
+    "risk_cases.csv": "28a8e27677ada5778c4314eb2dc2ff09d8bfef5d8044afc4b2a2b7f28217e6fe",
+    "sales_order_items.csv": "6d1a750cee9c10b4350200af1e86a72f7e18cd93e567d9dff7896794c35ad0f6",
+    "sales_orders.csv": "9d54bd3a71c45f64dca98d6a7c55f86427fb60d9c8f4cc905e3807799b72eb9a",
+    "service_cases.csv": "7c05c0dedc474282903675e7fcbbd0a7ae4bcc0f4d5726a45d855b77b565bcef",
+    "shipments.csv": "8c94570cfa6a79794213d5b5be55bb93896d6be2f29906d6e8c3b0fe226df138",
+    "supplier_contracts.csv": "4de74e1e5b4f98218c24d3cb561b0f0e27b24dbc23510e949b0cbeceac1ce94c",
+    "suppliers.csv": "4645728cee391ce2be396e9e3711200a578c89ab70a9d7e0cfb41f23243b33c5",
+    "warehouses.csv": "ca10b192cabd7405fa65d72e7ffbf512eb3cfa2e08fd1cb7424cb32bf3f1a116"
+  },
+  "updated_at": "2026-10-10T17:13:32.305330+00:00"
+}
